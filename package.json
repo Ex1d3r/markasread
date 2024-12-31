@@ -1,0 +1,5 @@
+{
+  "dependencies": {
+    "imap-simple": "^5.1.0"
+  }
+}
